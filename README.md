@@ -1,2 +1,2 @@
 # Wiki-db
-Bulid my first own API from scratch.
+Bulit my first own API from scratch.
